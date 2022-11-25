@@ -1,0 +1,45 @@
+h1{
+		color:rgb(255, 0, 0) ;
+		text-align: center;
+		font-family: comic sans ms;
+		font-style: normal;
+		font-size: 27px ;
+		
+	}
+	li{ 
+		color: DeepPink;
+		font-size: 25px;
+		list-style-position: inside;
+		
+	}
+
+	h2{
+		color: PaleVioletRed;
+		text-align: center;
+		font-family: comic sans ms;
+		font-style: normal;
+		font-size: 23px ;
+		
+	}
+	p{
+		font-family: arial;
+		font-size: 20px;
+		text-align: left;
+       color: darkmagenta;
+
+	}
+
+	img{
+		height: 260px;
+		width: 280px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	a{
+		
+	}
+	body{
+		background-color:black;
+
+	}

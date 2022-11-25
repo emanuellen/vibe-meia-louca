@@ -1,0 +1,62 @@
+h1{
+		color: MediumSlateBlue;
+		text-align: center;
+		font-family: comic sans ms;
+		font-style: normal;
+		font-size: 27px ;
+		
+	}
+	li{ 
+		color:blue;
+		font-size: 25px;
+		list-style-position: inside;
+		
+	}
+
+	h2{
+		color: Aqua;
+		text-align: center;
+		font-family: comic sans ms;
+		font-style: normal;
+		font-size: 23px ;
+		
+	}
+	p{
+		font-family: arial;
+		font-size: 20px;
+		text-align: left;
+       color: Aquamarine;
+
+	}
+
+	img{
+		height: 150px;
+		width: 150px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	a{
+		
+	}
+	body{
+		background-color:black;
+
+	}
+	 h1{
+	 	color: PowderBlue;
+	 }
+
+	 #qrcode{
+	 	position: relative;
+	 	left: 800px
+	 	right: 10px;
+	 	top: 100px;
+	 }
+
+	 #caroline{
+	 	position: relative;
+	 	left: 10px;
+	 	width: 800px; 
+	 	}
+
