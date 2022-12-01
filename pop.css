@@ -1,3 +1,9 @@
+body{
+    background-color: aqua;
+	background-image:url(https://i.pinimg.com/564x/95/06/de/9506de8dc1548f1dd9fa81b6ccbf94f6.jpg);*
+	background-size: cover;
+	margin: 30px;
+}
 h1{
 		color: MediumSlateBlue;
 		text-align: center;
@@ -25,7 +31,8 @@ h1{
 		font-family: arial;
 		font-size: 20px;
 		text-align: left;
-       color: darkmagenta;
+       color: white;
+       text-align: center;
 
 	}
 
@@ -36,10 +43,6 @@ h1{
 		margin-left: auto;
 		margin-right: auto;
 	}
-	a{
-		
-	}
-	body{
-		background-color:black;
-
-	}
+    a{
+	
+    }

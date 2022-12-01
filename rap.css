@@ -1,17 +1,16 @@
 body{
-	background-color: aqua;
-	background-image:url(https://i.pinimg.com/564x/e7/08/3c/e7083c1f9b2b945b99afe98c4ee76d83.jpg);*/
+    background-color: aqua;
+	background-image:url(https://i.pinimg.com/564x/72/a6/1e/72a61e5d83722e5bf67d84a432d3a2ed.jpg);*/
 	background-size: cover;
 	margin: 30px;
-
 }
 h1{
-	color: MediumSlateBlue;
+    color: MediumSlateBlue;
 	text-align: center;
 	font-family: comic sans ms;
 	font-style: normal;
 	font-size: 27px ;
-	 
+	
 }
 li{ 
 	color: DeepPink;
@@ -26,7 +25,6 @@ h2{
 	font-family: comic sans ms;
 	font-style: normal;
 	font-size: 23px ;
-
 	
 }
 p{
@@ -47,4 +45,5 @@ img{
 }
 a{
 	
+
 }
